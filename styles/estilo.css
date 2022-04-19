@@ -2,7 +2,7 @@ body {
     background-color: #fff5ff;    
 }
 
-#primeira {
+#header {
     display:flex;
     align-items: center;
     justify-content: center;
